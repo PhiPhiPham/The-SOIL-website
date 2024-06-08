@@ -20,7 +20,7 @@ For communication between the frontend and the API, **Axios** was utilized, whil
 7. Type "npm install" into the terminal, wait for download to finish
 8. Type "npm start" into the terminal
 
-You should have a website launch into your preferred browser, if the steps are not working, try going over the steps again or you can contact us at stevenpham0705@gmail.com.
+You should have a website launch into your preferred browser, if the steps are not working, try going over the steps again or you can contact me at stevenpham0705@gmail.com.
 ## Contents
 ### Home 
 The landing page features our weekly specials and an introduction to SOIL, providing visitors with an overview of our offerings.
