@@ -1,0 +1,50 @@
+
+
+.carousel-card {
+  margin-right: 20px;
+  margin-left: 20px;
+  min-height: 460px; 
+  max-height: 460px; 
+  flex: 1; 
+  position: relative;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card {
+  max-width: 630px;
+  flex: 1; 
+  position: relative;
+  background-color: white;
+  overflow: hidden;
+  border: none; 
+  border-radius: 10px;
+}
+
+
+
+.carousel-card-body {
+  display: flex; 
+  flex-direction: column; 
+  justify-content: space-between; 
+  height: 100%; 
+  padding: 20px;
+}
+
+.button-row {
+  display: flex;
+  justify-content: flex-start; 
+}
+
+.button {
+  padding: 10px;
+  text-align: center;
+}
+
+.button {
+  padding: 10px;
+  text-align: center;
+  bottom: 20px;
+  position: absolute;
+}

@@ -1,0 +1,47 @@
+
+.newsreader {
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+  
+.smaller-text {
+    font-size: 90%; /* Adjust the percentage as needed */
+}
+
+.semi-bold {
+    font-weight: 600; /* Adjust the font weight as needed */
+}
+
+
+.bigger-text {
+    font-size: 48px; /* Adjust the font size as needed */
+}
+
+.parallax {
+    background-image: "garden-vegetables.png";
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+button:hover {
+    background-color: green;
+}
+
+

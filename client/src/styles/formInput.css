@@ -1,0 +1,53 @@
+form {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.editbtn {
+    background-color: #426B1F;
+    float: right;
+    padding: 10px;
+}
+
+.donebtn {
+    float: right;
+    background-color: #426B1F;
+}
+
+.editbtn:hover {
+    background-color: green;
+}
+
+.card-header {
+    background-color: white;
+    
+    
+}
+
+.text-left {
+    text-align: left;
+    
+}
+
+.red{
+    font-size: 12px;
+    padding: 10px;
+    color: red;
+    
+}
+
+
+input:invalid[focused="true"]{
+    border: 1px solid red;
+}
+
+input:invalid[focused="true"] ~ span{
+    display: block;
+}
+
+.profileimg {
+    width: 150px;
+    margin-left: 230px;
+    padding-top: 10px;
+}
